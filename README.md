@@ -15,7 +15,7 @@
 
 - [About](#about)
 - [Built Using](#built_using)
-- [License](../LICENSE.md)
+- [License](./LICENSE.md)
 - [Authors](#authors)
 
 ## 🧐 About <a name = "about"></a>
@@ -30,7 +30,7 @@ Projek "profs" ini merupakan Tugas Matakuliah Pemrograman MultiPlatform. dan Pro
 
 ## License
 
-See the <a name = "License">LICENSE</a> file for license rights and limitations (MIT).
+See the <a href = "./LICENSE.md">LICENSE</a> file for license rights and limitations (MIT).
 
 ## ✍️ Authors <a name = "Authors"></a>
 
