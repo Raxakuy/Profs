@@ -5,6 +5,14 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: var(--color-background);
+  color: var(--color-text);
+  -ms-overflow-style: hidden;
+  scrollbar-width: hidden;
+}
+
+body::-webkit-scrollbar {
+  overflow: hidden;  /* Chrome, Safari, and Opera */
 }
 
 code {
